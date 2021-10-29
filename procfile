@@ -1,1 +1,1 @@
-web: json-server server.json -w -d 250 -p 3030
+web: json-server server.json -p 3030
