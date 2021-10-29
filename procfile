@@ -1,1 +1,1 @@
-web: json-server server.json -p 3030
+web: node index.js
